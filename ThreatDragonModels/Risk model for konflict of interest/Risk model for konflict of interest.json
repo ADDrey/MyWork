@@ -4,7 +4,11 @@
     "owner": "Andrey Alekseev"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Personal"
+      }
+    ],
     "diagrams": [
       {
         "title": "First diag",
