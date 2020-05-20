@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "title": "Risk model for conflict of interest",
+    "owner": "Andrey Alekseev"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Personal"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "First diag",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Andrey Alekseev"
+  }
+}
